@@ -1,0 +1,14 @@
+[
+  {
+    "translations": [
+      {
+        "text": "Hello world",
+        "to": "es"
+      },
+      {
+        "text": "Hola mundo",
+        "to": "en"
+      }
+    ]
+  }
+]
